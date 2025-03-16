@@ -1,4 +1,4 @@
-# Phishing para captura de senhas do Facebook/google.com
+# Phishing para captura de senhas do Google.com
 
 ### Ferramentas
 
@@ -14,7 +14,7 @@
 - Método de ataque: ```Credential Harvester Attack Method ```
 - Método de ataque: ``` Web Templates ```
 - Obtendo o endereço da máquina: ``` ifconfig ```
-- URL para clone: http://www.google.com
+- Template: ```Google```
 
 ### Resutados
 
